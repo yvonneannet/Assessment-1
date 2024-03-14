@@ -1,0 +1,49 @@
+.topbar{
+    display:inline-flex;
+    border-top: 105;
+}
+
+#links1{
+ display: flex;   
+gap:30px ;
+}
+
+#bemins{
+border-top: 2px;
+}
+
+#links2{
+    display: flex;
+    gap: 30px;
+}
+
+#row1{
+    display: flex;
+    
+}
+#products{
+    display: flex;
+    gap: 40px;
+    text-align: center;
+}
+#row2{
+    display: flex;
+    gap: 35px;
+}
+#row3{
+    display: flex;
+    gap: 30px;
+}
+
+#beanie{
+    display: flex;
+}
+
+#sweater{
+    display: flex;
+}
+
+#row4{
+    display: flex;
+    gap:50px ;
+}
